@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/
+venv/
+env/
+.venv/
+.ipynb_checkpoints/
+data/*.csv
+data/*.CSV
+data/*.json
+*.png
+!screenshots/track_map_cli_unified.png
+upload/
